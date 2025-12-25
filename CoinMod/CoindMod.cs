@@ -7,7 +7,7 @@ using UltrakillMods.UnityWav;
 using UnityEngine;
 using static Common.Statics;
 
-namespace UltrakillMods {
+namespace CoinMod {
     [BepInPlugin("com.einfachirgendwa1.coinMod", "CoinMod", "1.0.0.0")]
     public class CoindMod : BaseUnityPlugin {
         private static AudioClip? audioClip;

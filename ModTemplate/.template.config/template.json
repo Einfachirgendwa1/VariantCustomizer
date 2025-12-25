@@ -1,0 +1,19 @@
+﻿{
+    "author": "Einfachirgendwa1",
+    "name": "Ultrakill Mod",
+    "description": "Template for creating ULTRAKILL Mods.",
+    "identity": "Einfachirgendwa1.UKMod",
+    "shortName": "ukmod",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "ModTemplate",
+    "symbols": {
+        "guid": {
+            "type": "parameter",
+            "defaultValue": "com.einfachirgendwa1.ukmod",
+            "replaces": "defaultGuid"
+        }
+    }
+}
